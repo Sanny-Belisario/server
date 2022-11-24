@@ -1,0 +1,32 @@
+{
+    "tecnicasPanico": [
+        {
+            "id": 1,
+            "titulo": "Crise de Pânico. Psiquiatra ensina como agir",
+            "canal": "Neurologia e Psiquiatria",
+            "link": "https://www.youtube.com/embed/eVZi77WPkg8",
+            "warning": ""
+        },
+        {
+            "id": 2,
+            "titulo": "7 dicas para controlar as crises de pânico",
+            "canal": "Doutor Ajuda",
+            "link": "https://www.youtube.com/embed/j2BJkQPfNQ4",
+            "warning": ""
+        },
+        {
+            "id": 3,
+            "titulo": "Como agir em caso de crise de ansiedade (pânico). Psiquiatra explicatécnica 'Acalme-se'",
+            "canal": "Neurologia e Psiquiatria",
+            "link": "https://www.youtube.com/embed/UJS6C77DV9c",
+            "warning": ""
+        },
+        {
+            "id": 4,
+            "titulo": "Crise de Pânico: Técnica de 15 segundos, pelo Psiquiatra Dr. Marco Abud",
+            "canal": "Saúde da Mente",
+            "link": "https://www.youtube.com/embed/KqpzmpHvvXw",
+            "warning": ""
+        }
+    ]
+}

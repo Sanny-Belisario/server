@@ -1,0 +1,60 @@
+{
+    "sons": [
+        {
+            "id": 1,
+            "titulo": "432Hz Relaxamento Acalmar a Mente e Relaxar - Música Relaxante e Sons da Natureza para Ansiedade (1)",
+            "canal": "Musicalm",
+            "link": "https://www.youtube.com/embed/QJ6j77GjdFQ",
+            "warning": "Contém sons de água e música leve"
+        },
+        {
+            "id": 2,
+            "titulo": "Alívio para o Stress e Ansiedade - Relaxar com Música e Sons da Natureza - Meditação para Acalmar",
+            "canal": "Cassio Toledo",
+            "link": "https://www.youtube.com/embed/UyqN7lEFkpY",
+            "warning": "Contém sons de água corrente, passarinhos e música leve"
+        },
+        {
+            "id": 3,
+            "titulo": "PODEROSA FREQUÊNCIA para ALÍVIO do PÂNICO, ANSIEDADE, DEPRESSÃO",
+            "canal": "Poetoterapia por Lázaro Ramon",
+            "link": "https://www.youtube.com/embed/A_H9RRTCcDg",
+            "warning": "Contém sons de água e música leve, além de respiração guiada"
+        },
+        {
+            "id": 4,
+            "titulo": "Música para Meditar e Relaxar com Sons de Riacho e Natureza - Acalmar os Pensamentos",
+            "canal": "Cassio Toledo",
+            "link": "https://www.youtube.com/embed/UxhDlsH0cGU",
+            "warning": "Contém sons de água, sinos, passarinhos e música"
+        },
+        {
+            "id": 5,
+            "titulo": "Hora de Relaxar! Música Relaxante P/ Eliminar a Ansiedade - Acalmar",
+            "canal": "Cassio Toledo",
+            "link": "https://www.youtube.com/embed/EqPyyh9x88A",
+            "warning": "Contém sons do mar, sinos e música leve"
+        },
+        {
+            "id": 6,
+            "titulo": "Musica para sono Profundo, Dormir em 3 Segundos, Música para eliminar ansiedade, Musica relaxante",
+            "canal": "Relaxar",
+            "link": "https://www.youtube.com/embed/NW3_oCRjYxk",
+            "warning": "Contém música leve"
+        },
+        {
+            "id": 7,
+            "titulo": "432Hz Relaxamento Acalmar a Mente e Relaxar - Musica para Dormir e Relaxar reduz Insônia e Ansiedade",
+            "canal": "Musicalm",
+            "link": "https://www.youtube.com/embed/VAyIQ-vFDeo",
+            "warning": "Contém sons de água e música"
+        },
+        {
+            "id": 8,
+            "titulo": "Música Xamãnica para Eliminar Ansiedade, Medos, Fobias e Relaxar.",
+            "canal": "Relaxar",
+            "link": "https://www.youtube.com/embed/gZ-HvnuDy_I",
+            "warning": ""
+        }
+    ]
+}

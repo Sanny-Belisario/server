@@ -1,0 +1,44 @@
+{
+    "musicas": [
+        {
+            "id": 1,
+            "capa": "reggae-relax.jpg",
+            "titulo": "Reggae Relax",
+            "quantidade": 90,
+            "tempo": "6 horas e 6 minutos",
+            "link": "https://music.youtube.com/playlist?list=RDCLAK5uy_lTN8j40AYIG_Mc9P2t7DECfqGn0A1uQo4&feature=share&playnext=1"
+        },
+        {
+            "id": 2,
+            "capa": "adagio.jpg",
+            "titulo": "Adagio",
+            "quantidade": 58,
+            "tempo": "5 horas e 35 minutos",
+            "link": "https://music.youtube.com/playlist?list=RDCLAK5uy_mXoN6fIdNjR49OhhEHBN3Dllo1payyEzo&feature=share&playnext=1"
+        },
+        {
+            "id": 3,
+            "capa": "tranquil-spa-day.jpg",
+            "titulo": "Dia de spa em clima tranquilo",
+            "quantidade": 51,
+            "tempo": "4 horas e 24 minutos",
+            "link": "https://music.youtube.com/playlist?list=RDCLAK5uy_kjbesFvpAjQl3z_xUxMArIfRpubFn791o&feature=share&playnext=1"
+        },
+        {
+            "id": 4,
+            "capa": "mpb-relax.jpg",
+            "titulo": "MPB Relax 2022 - Músicas Calmas Para Relaxar - Calminhas, Tranquilas, Suaves, Lentas",
+            "quantidade": 73,
+            "tempo": "4 horas e 13 minutos",
+            "link": "https://music.youtube.com/playlist?list=PLDUAx1zZF7lsggPTGTLY4WoOM4O2dZHJM&feature=share"
+        },
+        {
+            "id": 4,
+            "capa": "musicas-internacionais.jpg",
+            "titulo": "Músicas Internacionais Para Relaxar - Melhores Músicas Relaxantes",
+            "quantidade": 100,
+            "tempo": "6 horas e 27 minutos",
+            "link": "https://music.youtube.com/playlist?list=PLz1LeT5FVsBvg3qexp2-cS2Ftlq5GY5IK&feature=share"
+        }
+    ]
+}

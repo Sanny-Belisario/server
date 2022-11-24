@@ -1,0 +1,194 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "As Branquelas",
+            "anoLancamento": 2004,
+            "idade": 12,
+            "capa": "as-branquelas.jpg",
+            "elenco": "Marlon Wayans, Shawn Wayans, Terry Crews, Busy Philipps, Jaime King, Brittany Daniel e Jennifer Carpenter",
+            "sinopse": "Em As Branquelas, os irmãos Marcus (Marlon Wayans) e Kevin Copeland (Shawn Wayans) são detetives do FBI que estão com problemas no trabalho. A última investigação da dupla foi um grande fracasso e eles estão sob a ameaça de serem demitidos. Quando um plano para sequestrar as mimadas irmãs Brittany (Maitland Ward) e Tiffany Wilson (Anne Dudek) é descoberto, o caso é entregue aos principais rivais dos irmãos Copeland, os agentes Vincent Gomez (Eddie Velez) e Jack Harper (Lochlyn Munro). Para aumentar ainda mais a humilhação da dupla, eles são escalados para escoltar as jovens mimadas do aeroporto até o local de um evento pelo qual elas esperaram por meses. Porém no trajeto um acidente de carro provoca um verdadeiro desastre: enquanto uma das irmãs arranha o nariz, a outra corta o lábio. Desesperadas, elas se recusam a ir ao evento. É quando,para salvar o emprego, Marcus e Kevin decidem por assumir as identidades das irmãs.",
+            "disponivel": "Netflix, YouTube, Amazon Prime Video, Paramount+, Google Play Filmes e Apple TV"
+        },
+        {
+            "id": 2,
+            "titulo": "Para Todos Os Garotos Que Já Amei",
+            "anoLancamento": 2018,
+            "idade": 14,
+            "capa": "para-todos-os-garotos-que-ja-amei.jpg",
+            "elenco": "Noah Centineo, Lana Condor, Anna Cathcart, Israel Broussard, Janel Parrish, Emilija Baranac e Madeleine Arthur",
+            "sinopse": "Baseado no romance de Jenny Han, Para Todos os Garotos que Já Amei segue as aventuras amorosas de Lara Jean (Lana Condor). No ensino médio, Lara tem um hábito de escrever cartas para todos os garotos que já gostou de alguma forma, de modo que ela possa liberar o amor não correspondido ou que nunca foi falado para a pessoa. Todas as cartas que já escreveu são guardadas em uma caixa. Um dia sua irmã mais nova acha as cartas e decide mandar para todos os destinatários, afim de ajudar a irmã a ser correspondida por um deles ou apenas receber uma mensagem. Na manhã seguinte, Lara é confrontada por Peter Kavinsky (Noah Centineo), que recebeu uma de suas cartas, mas se não fosse só ele, Josh e Lucas também vão falar com ela. Em um momento de desespero ela beija Peter para despistar um dos garotos. Ciente que suas cartas foram mandadas, Lara entra em pânico, mas Peter percebe que sua ex-namorada começou a ficar com ciúmes dele. Então ele decide fazer um pacto com Lara para que eles forjem um namoro para que Peter volte com sua ex. Mas será que o amor dos dois vai florescer em meio de mentirinhas?",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 3,
+            "titulo": "Três Vezes Amor",
+            "anoLancamento": 2008,
+            "idade": 12,
+            "capa": "tres-vezes-amor.jpg",
+            "elenco": "Abigail Breslin, Ryan Reynolds, Isla Fisher, Rachel Weisz, Elizabeth Banks, Adam Brooks e Derek Luke",
+            "sinopse": "Em Três Vezes Amor, Will Hayes (Ryan Reynolds) é o pai solteiro de Maya (Abigail Breslin), uma garota de 10 anos que sempre quis saber como ele e sua mãe se conheceram. Um dia, após muita insistência dela, Will conta que teve um relacionamento com três mulheres, Summer (Rachel Weisz), Emily (Elizabeth Banks) e April (Isla Fisher), e que uma delas é sua mãe. Decidida a fazer com que seus pais voltem a viver juntos, Maya passa a incentivar o pai a encontrar suas antigas namoradas. O problema é que todos os relacionamentos terminaram de forma abrupta, com traumas para ambos os lados.",
+            "disponivel": "Telecine, Google Play Filmes, Apple TV, Youtube e Amazon Prime Video"
+        },
+        {
+            "id": 4,
+            "titulo": "Extraordinario",
+            "anoLancamento": 2017,
+            "idade": 10,
+            "capa": "o-extraordinario.png",
+            "elenco": "Jacob Tremblay, Julia Roberts, Owen Wilson, Izabela Vidovic, Noah Jupe, Bryce Gheisar e Danielle Rose Russell",
+            "sinopse": "Auggie Pullman (Jacob Tremblay) é um garoto que nasceu com uma deformação facial, o que fez com que passasse por 27 cirurgias plásticas. Aos 10 anos, ele pela primeira vez frequentará uma escola regular, como qualquer outra criança. Lá, precisa lidar com a sensação constante de ser sempre observado e avaliado por todos à sua volta.",
+            "disponivel": "Netflix, Youtube, Apple TV, Amazon Prime Video, Google Play Filmes"
+        },
+        {
+            "id": 5,
+            "titulo": "Aladdin",
+            "anoLancamento": 2019,
+            "idade": 10,
+            "capa": "aladdin.jpg",
+            "elenco": "Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Nasim Pedrad, Billy Magnussen e Navid Negahban",
+            "sinopse": "Aladdin (Mena Massoud) é um jovem ladrão que vive de pequenos roubos em Agrabah. Um dia, ele ajuda uma jovem a recuperar um valioso bracelete, sem saber que ela na verdade é a princesa Jasmine (Naomi Scott). Aladdin logo fica interessado nela, que diz ser a criada da princesa. Ao visitá-la em pleno palácio e descobrir sua identidade, ele é capturado por Jafar (Marwan Kenzari), o grão-vizir do sultanato, que deseja que ele recupere uma lâmpada mágica, onde habita um gênio (Will Smith) capaz de conceder três desejos ao seu dono.",
+            "disponivel": "Disney+"
+        },
+        {
+            "id": 6,
+            "titulo": "Green Book: O Guia",
+            "anoLancamento": 2018,
+            "idade": 12,
+            "capa": "green-book-o-guia.jpg",
+            "elenco": "Viggo Mortensen, Mahershala Ali, Nick Vallelonga, Linda Cardellini, Dimitar Marinov, Sebastian Maniscalco e Brian Hayes Currie",
+            "sinopse": "Em Green Book - O Guia, Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.",
+            "disponivel": "HBO Max, YouTube, Apple TV, Amazon Prime Video, Google Play Filmes"
+        },
+        {
+            "id": 7,
+            "titulo": "Forrest Gump - O Contador de Histórias",
+            "anoLancamento": 1994,
+            "idade": 14,
+            "capa": "forrest-gump.jpg",
+            "elenco": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson, Haley Joel Osment e Hanna R. Hall",
+            "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump (Tom Hanks), um rapaz com QI abaixo da média e boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+            "disponivel": "Netflix, YouTube, Apple TV, Amazon Prime Video e Google Play Filmes"
+        },
+        {
+            "id": 8,
+            "titulo": "O Amor Não Tira Férias",
+            "anoLancamento": 2006,
+            "idade": 10,
+            "capa": "o-amor-nao-tira-ferias.jpg",
+            "elenco": "Cameron Diaz, Jude Law, Kate Winslet, Jack Black, Eli Wallach, Emma Pritchard e Rufus Sewell",
+            "sinopse": "Iris  (Kate Winslet) escreve uma coluna sobre casamento bastante conhecida no Daily Telegraph, de Londres. Ela está apaixonada por Jasper (Rufus Sewell), mas logo descobre que ele está prestes a se casar com outra. Bem longe dali, em Los Angeles, está Amanda (Cameron Diaz), dona de uma próspera agência de publicidade especializada na produção de trailers de filmes. Após descobrir que seu namorado, Ethan (Edward Burns), não tem sido fiel, Amanda encontra na internet um site especializado em intercâmbio de casas. Ela e Iris entram em contato e combinam a troca. Logo a mudança trará reflexos na vida amorosa de ambas, com Iris conhecendo Miles (Jack Black), um compositor de cinema, e Amanda se envolvendo com Graham (Jude Law), irmão de Iris.",
+            "disponivel": "Netflix, Telecine, Amazon Prime Video e Apple TV"
+        },
+        {
+            "id": 9,
+            "titulo": "Patch Adams - O Amor É Contagioso",
+            "anoLancamento": 1998,
+            "idade": 12,
+            "capa": "o-amor-e-contagioso.jpg",
+            "elenco": "Robin Williams, Philip Seymour Hoffman, Monica Potter, Daniel London, Bob Gun ton, Peter Coyote e Irma P. Hall",
+            "sinopse": "Em 1969, após tentar se suicidar, Hunter Adams (Robin Williams) voluntariamente se interna em um sanatório. Ao ajudar outros internos, descobre que deseja ser médico, para poder ajudar as pessoas. Deste modo, sai da instituição e entra na faculdade de medicina. Seus métodos poucos convencionais causam inicialmente espanto, mas aos poucos vai conquistando todos, com exceção do reitor, que quer arrumar um motivo para expulsá-lo, apesar dele ser o primeiro da turma.",
+            "disponivel": "Netflix, Apple TV e Amazon Prime Video"
+        },
+        {
+            "id": 10,
+            "titulo": "Questão de Tempo",
+            "anoLancamento": 2013,
+            "idade": 12,
+            "capa": "questao-de-tempo.jpg",
+            "elenco": "Rachel McAdams, Domhnall Gleeson, Margot Robbie, Bill Nighy, Lydia Wilson, Vanessa Kirby e Tom Hollander",
+            "sinopse": "Ao completar 21 anos, Tim (Domhnall Gleeson) é surpreendido com a notícia dada por seu pai (Bill Nighy) de que pertence a uma linhagem de viajantes no tempo. Ou seja, todos os homens da família conseguem viajar para o passado, bastando apenas ir para um local escuro e pensar na época e no local para onde deseja ir. Cético a princípio, Tim logo se empolga com o dom ao ver que seu pai não está mentindo. Sua primeira decisão é usar esta capacidade para conseguir uma namorada, mas logo ele percebe que viajar no tempo e alterar o que já aconteceu pode provocar consequências inesperadas.",
+            "disponivel": "Star+, Telecine, Googe Play Filmes, Amazon Prime Video, YouTube e Apple TV"
+        },
+        {
+            "id": 11,
+            "titulo": "Um Senhor Estagiário",
+            "anoLancamento": 2015,
+            "idade": 12,
+            "capa": "um-senhor-estagiario.jpg",
+            "elenco": "Robert De Niro, Anne Hathaway, Adam DeVine, Rene Russo, JoJo Kushner, Christina Scherer e Zach Pearlman",
+            "sinopse": "Um Senhor Estagiário acompanha Jules Ostin (Anne Hathaway), uma criadora de um site bem-sucedido de vendas de roupas que, apesar de ter apenas 18 meses, já tem mais de duas centenas de funcionários. Ela leva uma vida bastante atarefada, devido às exigências do cargo e ao fato de gostar de manter contato com o público. Quando sua empresa inicia um projeto de contratar idosos como estagiários, em uma tentativa de colocá-los de volta à ativa, cabe a ela trabalhar com o viúvo Ben Whittaker (Robert De Niro). Aos 70 anos, Ben leva uma vida monótona e vê o estágio como uma oportunidade de se reinventar. Por mais que enfrente o inevitável choque de gerações, logo ele conquista os colegas de trabalho e se aproxima cada vez mais de Jules, que passa a vê-lo como um amigo.",
+            "disponivel": "HBO Max, Google Play Filmes, Apple TV, YouTube e Amazon Prime Video"
+        },
+        {
+            "id": 12,
+            "titulo": "O Rei do Show",
+            "anoLancamento": 2017,
+            "idade": 10,
+            "capa": "o-rei-do-show.jpg",
+            "elenco": "Hugh Jackman, Zac Efron, Zendaya, Keala Settle, Michelle Williams, Rebecca Ferguson e Cameron Seely",
+            "sinopse": "De origem humilde e desde a infância sonhando com um mundo mágico, P.T. Barnum (Hugh Jackman) desafia as barreiras sociais se casando com a filha do patrão do pai e dá o pontapé inicial na realização de seu maior desejo abrindo uma espécie de museu de curiosidades. O empreendimento fracassa, mas ele logo vislumbra uma ousada saída: produzir um grande show estrelado por freaks, fraudes, bizarrices e rejeitados de todos os tipos.",
+            "disponivel": "Disney+"
+        },
+        {
+            "id": 13,
+            "titulo": "Toy Story",
+            "anoLancamento": 1995,
+            "idade": "L",
+            "capa": "toy-story.png",
+            "elenco": "Tom Hanks, Erik von Detten, Nathan Lane, Jim Varney, John Ratzenberger, Laurie Metcalf e Don Rickles",
+            "sinopse": "O aniversário de Andy está chegando e os brinquedos estão nervosos. Afinal de contas, eles temem que um novo brinquedo possa substituí-los. Liderados por Woody, um caubói que é também o brinquedo predileto de Andy, eles montam uma escuta que lhes permite saber dos presentes ganhos. Entre eles está Buzz Lightyear, o boneco de um patrulheiro espacial, que logo passa a receber mais atenção do garoto. Isto aos poucos gera ciúmes em Woody, que tenta fazer com que ele caia atrás da cama. Só que o plano dá errado e Buzz cai pela janela. É o início da aventura de Woody, que precisa resgatar Buzz também para limpar sua barra com os outros brinquedos.",
+            "disponivel": "Disney+"
+        },
+        {
+            "id": 14,
+            "titulo": "Como Perder um Homem em 10 Dias",
+            "anoLancamento": 2003,
+            "idade": 12,
+            "capa": "como-perder-um-homem-em-dez-dias.jpg",
+            "elenco": "Kate Hudson, Matthew McConaughey, Kathryn Hahn, Adam Goldberg, Thomas Lennon, Michael Michele e Shalom Harlow",
+            "sinopse": "Ben Barry (Matthew McConaughey) é um publicitário que faz uma grande aposta com seu chefe: caso faça com que uma mulher se apaixone por ele em 10 dias ele será o responsável por uma concorrida campanha de diamantes que pertence à empresa. A vítima escolhida por Ben é Andie Anderson (Kate Hudson), uma jornalista feminista que está desenvolvendo uma matéria sobre como perder um homem em 10 dias e está decidida a infernizar a vida de qualquer homem que se aproximar dela. Ambos se conhecem em um bar, sendo que escolhem um ao outro como alvo de seus planos.",
+            "disponivel": "Amazon Prime Video, Google Play Filmes, YouTube e Apple TV"
+        },
+        {
+            "id": 15,
+            "titulo": "De Repente 30",
+            "anoLancamento": 2004,
+            "idade": "L",
+            "capa": "de-repente-30.jpg",
+            "elenco": "Jennifer Garner, Mark Ruffalo, Christa B. Allen, Judy Greer, Brie Larson, Andy Serkis e Ashley Benson",
+            "sinopse": "Em De Repente 30, Jenna Rink (Christa B. Allen) é uma garota que está descontente com sua própria idade, já que seus colegas mais populares da escola não lhe dão atenção, seus pais ficam sempre no seu pé e o garoto por quem está apaixonada nem sabe que ela existe. A única amizade que Jenna possui é Matt Flamhaff (Sean Marquette), seu vizinho. Para tentar reverter a situação Jenna decide por ter uma grande festa para o seu 13º aniversário, convidando todos os adolescentes que conhece. Porém o que deveria ser sua consagração se transforma num grande desastre, após Jenna ser trancada em um armário devido a uma brincadeira e ser completamente esquecida pelos demais presentes na festa. Triste, Jenna faz um pedido: virar adulta de repente, para ter a vida com que sempre sonhou. O pedido milagrosamente se torna realidade e, no dia seguinte, Jenna (Jennifer Garner) desperta em 2004 e com 30 anos de idade. De início Jenna fica assustada com as novidades de sua vida, mas aos poucos fica cada vez mais encantada por ter se tornado tudo aquilo que sempre sonhou ser. Porém, quando tenta reencontrar Matt (Mark Ruffalo), Jenna descobre que perdeu contato com ele há vários anos e que agora ele está prestes a se casar.",
+            "disponivel": "Netflix, Amazon Prime Video, Paramount+ e Apple TV"
+        },
+        {
+            "id": 16,
+            "titulo": "Yesterday",
+            "anoLancamento": 2019,
+            "idade": 12,
+            "capa": "yesterday.jpg",
+            "elenco": "Himesh Patel, Lily James, Ed Sheeran, Kate McKinnon, Joel Fry, Ana de Armas e James Corden",
+            "sinopse": "Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.",
+            "disponivel": "YouTube, Apple TV e Google Play Filmes"
+        },
+        {
+            "id": 17,
+            "titulo": "O Despestar de Motti",
+            "anoLancamento": 2018,
+            "idade": 14,
+            "capa": "o-despertar-de-motti.jpg",
+            "elenco": "Joel Basman, Noémie Schmidt, Inge Maux, Sunnyi Melles, Meytal Gal, Lena Kalisch, Rachel Braunschweig",
+            "sinopse": "Sua mãe quer que ele se case com uma judia ortodoxa. O problema é que Moti está apaixonado pela descolada Laura, a colega de classe que nunca ganharia o aval materno.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 18,
+            "titulo": "Sim Senhor",
+            "anoLancamento": 2008,
+            "idade": 14,
+            "capa": "sim-senhor.jpg",
+            "elenco": "Zooey Deschanel, Jim Carrey, Heidi Herschbach, Rhys Darby, Terence Stamp, Bradley Cooper e Sasha Alexander",
+            "sinopse": "Após o convite de um amigo, Carl Allen (Jim Carrey) decide ir em um culto de auto-ajuda, que tem por base dizer sim a qualquer coisa que lhe aconteça ou ofereçam. Ao seguir este preceito a vida de Carl começa a mudar, fazendo com que seja promovido e conheça Allison (Zooey Deschanel), por quem se apaixona. Porém ao tentar aproveitar todas as oportunidades que lhe surgem Carl começa a notar que tudo que é em excesso pode também cansar.",
+            "disponivel": "Netflix, Google Play Filmes, Apple TV, YouTube e Amazon Prime Video"
+        },
+        {
+            "id": 19,
+            "titulo": "Minha Mãe É uma Peça",
+            "anoLancamento": 2013,
+            "idade": 12,
+            "capa": "minha-mae-e-uma-peca.jpg",
+            "elenco": "Paulo Gustavo, Herson Capri, Suely Franco, Mônica Martelli, Samantha Schmütz, Mariana Xavier e Rodrigo Pandolfo",
+            "sinopse": "Dona Hermínia (Paulo Gustavo) é uma mulher de meia idade, divorciada do marido (Herson Capri), que a trocou por uma mais jovem (Ingrid Guimarães). Hiperativa, ela não larga o pé de seus filhos Marcelina (Mariana Xavier) e Juliano (Rodrigo Pandolfo), sem se dar conta que eles já estão bem grandinhos. Um dia, após descobrir que eles consideram ela uma chata, resolve sair de casa sem avisar para ninguém, deixando todos, de alguma forma, preocupados com o que teria acontecido. Mal sabem eles que a mãe foi visitar a querida tia Zélia (Sueli Franco) para desabafar com ela suas tristezas do presente e recordar os bons tempos do passado.",
+            "disponivel": "Netflix, Youtube, Apple TV, Globoplay e Google Play Filmes"
+        }
+    ]
+}

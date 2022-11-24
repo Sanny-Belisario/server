@@ -1,0 +1,53 @@
+{
+    "tecnicasAnsiedade": [
+        {
+            "id": 1,
+            "titulo": "Use esse vídeo quando estiver numa crise de ansiedade ou pânico",
+            "canal": "Kell Smith",
+            "link": "https://www.youtube.com/embed/6eB5MF-QX9k",
+            "warning": ""
+        },
+        {
+            "id": 2,
+            "titulo": "O que fazer durante uma crise de ansiedade?",
+            "canal": "Minha Vida",
+            "link": "https://www.youtube.com/embed/u0bDTLKuudE",
+            "warning": ""
+        },
+        {
+            "id": 3,
+            "titulo": "Como controlar uma crise de ansiedade",
+            "canal": "Drauzio Varella",
+            "link": "https://www.youtube.com/embed/8YG8HABY25w",
+            "warning": ""
+        },
+        {
+            "id": 4,
+            "titulo": "Como lidar com a crise de ansiedade",
+            "canal": "Clínica da Mente",
+            "link": "https://www.youtube.com/embed/f45TFriiLWg",
+            "warning": ""
+        },
+        {
+            "id": 5,
+            "titulo": "7 dicas para controlar a ansiedade • Psicologia • Casule Saúde e Bem-estar",
+            "canal": "Casule",
+            "link": "https://www.youtube.com/embed/vcxZ0pzok8c",
+            "warning": ""
+        },
+        {
+            "id": 6,
+            "titulo": "4 estratégias para sair da crise de ansiedade",
+            "canal": "Saúde da Mente",
+            "link": "https://www.youtube.com/embed/BVm4P6icaGI",
+            "warning": ""
+        },
+        {
+            "id": 7,
+            "titulo": "4 exercícios simples para te ajudar a se livrar da ansiedade",
+            "canal": "Exercício Transforma",
+            "link": "https://www.youtube.com/embed/A4tkULKy7RY",
+            "warning": ""
+        }
+    ]
+}

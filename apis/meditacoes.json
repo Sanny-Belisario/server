@@ -1,0 +1,81 @@
+{
+    "meditacoes": [
+        {
+            "id": 1,
+            "titulo": "Meditação para ansiedade",
+            "canal": "Yoga Mudra Raissa Zoccai",
+            "link": "https://www.youtube.com/embed/mzAqzL2XIQA",
+            "warning": ""
+        },
+        {
+            "id": 2,
+            "titulo": "Meditação para ansiedade",
+            "canal": "Camila Zen",
+            "link": "https://www.youtube.com/embed/Z1y3Alas8Zs",
+            "warning": ""
+        },
+        {
+            "id": 3,
+            "titulo": "Meditação para ansiedade",
+            "canal": "Juliana Goes",
+            "link": "https://www.youtube.com/embed/Iub-qQmNSYU",
+            "warning": ""
+        },
+        {
+            "id": 4,
+            "titulo": "MEDITAÇÃO Guiada para Aliviar ANSIEDADE",
+            "canal": "Yoga Mudra Raissa Zoccai",
+            "link": "https://www.youtube.com/embed/sJjyX9W-E-Y",
+            "warning": ""
+        },
+        {
+            "id": 5,
+            "titulo": "Meditação para ANSIEDADE",
+            "canal": "Yoga Mudra Raissa Zoccai",
+            "link": "https://www.youtube.com/embed/Dbt2x-lWASI",
+            "warning": ""
+        },
+        {
+            "id": 6,
+            "titulo": "Meditação Rápida para REDUZIR ESTRESSE, ANSIEDADE e MEDO (aliviar tensões EM MINUTOS)",
+            "canal": "Fernanda Yoga",
+            "link": "https://www.youtube.com/embed/eJ2prqWQNzI",
+            "warning": ""
+        },
+        {
+            "id": 7,
+            "titulo": "MEDITAÇÃO CALMA para ALIVIAR Preocupações, Medo e Ansiedade",
+            "canal": "Yoga Mudra Raissa Zoccai",
+            "link": "https://www.youtube.com/embed/pv-aymg97JM",
+            "warning": ""
+        },
+        {
+            "id": 8,
+            "titulo": "Meditação para ANSIEDADE e ANGÚSTIA.",
+            "canal": "Camila Zen",
+            "link": "https://www.youtube.com/embed/xTlIkRAbK08",
+            "warning": ""
+        },
+        {
+            "id": 9,
+            "titulo": "Meditação Guiada para ANSIEDADE e MEDO",
+            "canal": "Camila Zen",
+            "link": "https://www.youtube.com/embed/LYQtsY0mbM8",
+            "warning": ""
+        },
+        {
+            "id": 10,
+            "titulo": "Meditação para ansiedade | Elimine tensões e preocupações",
+            "canal": "Persono",
+            "link": "https://www.youtube.com/embed/l2Z02eV85Ss",
+            "warning": ""
+        },
+        {
+            "id": 11,
+            "titulo": "MINDFULNESS: ANSIEDADE ZERO (MEDITAÇÃO GUIADA)",
+            "canal": "Meditar para Despertar",
+            "link": "https://www.youtube.com/embed/1fYt92gSJ_U",
+            "warning": ""
+        }
+    ]
+}

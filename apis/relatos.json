@@ -1,0 +1,81 @@
+{
+    "relatos": [
+        {
+            "id": 1,
+            "titulo": "Depressão e ansiedade: minha história!",
+            "canal": "Vanessa Lino",
+            "link": "https://www.youtube.com/embed/p79BtOPiTxM",
+            "warning": ""
+        },
+        {
+            "id": 2,
+            "titulo": "Depressão - Como sair dessa? Minha experiência",
+            "canal": "Fernanda Petrizi",
+            "link": "https://www.youtube.com/embed/JxGGMujkhfU",
+            "warning": "Contém menções a pensamentos suicidas"
+        },
+        {
+            "id": 3,
+            "titulo": "Como eu saí da depressão | Dora Figueiredo",
+            "canal": "Dora Fiqueiredo",
+            "link": "https://www.youtube.com/embed/NmSc4aSbJC0",
+            "warning": ""
+        },
+        {
+            "id": 4,
+            "titulo": "Eu já tentei o suicídio",
+            "canal": "Viih Tube",
+            "link": "https://www.youtube.com/embed/AoNsSJ02hIc",
+            "warning": "Contém conteúdo sensível e mensagens de ódio"
+        },
+        {
+            "id": 5,
+            "titulo": "Como eu venci a minha depressão!",
+            "canal": "Sweet Carol",
+            "link": "https://www.youtube.com/embed/yxCd4H1ZteE",
+            "warning": "Contém pensamentos suicidas e menções de bullying"
+        },
+        {
+            "id": 6,
+            "titulo": "Depressão: Minha história e tratamento!",
+            "canal": "ellora",
+            "link": "https://www.youtube.com/embed/PlcVBPow4QM",
+            "warning": ""
+        },
+        {
+            "id": 7,
+            "titulo": "Eu venci a depressão | minha história",
+            "canal": "Cinthia Carlos",
+            "link": "https://www.youtube.com/embed/rBrTP-7eTvo",
+            "warning": "Fala sobre contato com Deus"
+        },
+        {
+            "id": 8,
+            "titulo": "Meu relato sobre depressão: como eu superei | Testemunho + sintomas, remédio, sentimeto de culpa",
+            "canal": "Taize Gimeno",
+            "link": "https://www.youtube.com/embed/BDtyOkG6kXU",
+            "warning": "Fala sobre Deus e se apegar a ele para se curar"
+        },
+        {
+            "id": 9,
+            "titulo": "Os dias mais difíceis da minha vida | como eu VENCI a depressão.",
+            "canal": "Ana Desidério",
+            "link": "https://www.youtube.com/embed/4NDKc-fj1LY",
+            "warning": "Contém internação em hospital, crises de ansiedade e ataque de pânico"
+        },
+        {
+            "id": 10,
+            "titulo": "SETEMBRO AMARELO - COMO EU VENCI A DEPRESSÃO",
+            "canal": "Gisele Tavares",
+            "link": "https://www.youtube.com/embed/0HrskUHt3JQ",
+            "warning": "Contém crise de pânico, bullying, relação com deus e automutilação"
+        },
+        {
+            "id": 11,
+            "titulo": "TENTEI TIRAR MINHA PRÓPRIA VIDA | Meu Relato",
+            "canal": "Dobruskii",
+            "link": "https://www.youtube.com/embed/8NS7PORqVZ4",
+            "warning": "Contém pensamentos suicidas e auto mutilação"
+        }
+    ]
+}

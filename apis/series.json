@@ -1,0 +1,224 @@
+{
+    "series": [
+        {
+            "id": 1,
+            "titulo": "Gilmore Girls: Tal Mãe, Tal Filha",
+            "anoLancamento": 2000,
+            "idade": 12,
+            "capa": "gilmore-girls.jpg",
+            "elenco": "Alexis Bledel, Lauren Graham, Milo Ventimiglia, Jared Padalecki, Scott Patterson, Kelly Bishop e Melissa McCarthy",
+            "sinopse": "Lorelai Gilmore (Lauren Graham) tem uma relação tão amigável com sua filha, Rory (Alexis Bledel), que muitas vezes elas são confundidas como irmãs. Entre o relacionamento de Lorelai com seus pais, a nova escola preparatória de Rory, e os romances nas vidas das duas, há muito drama e muita diversão acontecendo.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 2,
+            "titulo": "Friends",
+            "anoLancamento": 1994,
+            "idade": 12,
+            "capa": "friends.jpg",
+            "elenco": "Jennifer Aniston, Lisa Kudrow, David Schwimmer, Matthew Perry, Courteney Cox, Matt LeBlanc e James Michael Tyler",
+            "sinopse": "Seis jovens são unidos por laços familiares, românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York. Rachel é a garota mimada que deixa o noivo no altar para viver com a amiga dos tempos de escola Monica, sistemática e apaixonada pela culinária. Monica é irmã de Ross, um paleontólogo que é abandonado pela esposa, que descobriu ser lésbica. Do outro lado do corredor do apartamento de Monica e Rachel, moram Joey, um ator frustrado, e Chandler, de profissão misteriosa. A turma é completa pela exótica Phoebe. ",
+            "disponivel": "HBO Max"
+        },
+        {
+            "id": 3,
+            "titulo": "How I Met Your Mother",
+            "anoLancamento": 2005,
+            "idade": 12,
+            "capa": "how-i-met-your-mother.jpg",
+            "elenco": "Josh Radnor, Neil Patrick Harris, Cobie Smulders, Alyson Hannigan, Jason Segel, Cristin Milioti e Bob Saget",
+            "sinopse": "Em 2030, o arquiteto Ted Mosby (Josh Radnor) conta a história sobre como conheceu a mãe dos seus filhos. Ele volta no tempo para 2005, relembrando suas aventuras amorosas em Nova York e a busca pela mulher dos seus sonhos. Ao longo do anos, Ted aproveita para falar a jornada dos seus amigos: o advogado Marshall Eriksen (Jason Segel), a professora Lily Aldrin (Alyson Hannigan), a jornalista Robin Scherbatsky (Cobie Smulders) e o mulherengo convicto Barney Stinson (Neil Patrick Harris).",
+            "disponivel": "Star+ e Amazon Prime Video"
+        },
+        {
+            "id": 4,
+            "titulo": "Brooklyn Nine-Nine",
+            "anoLancamento": 2013,
+            "idade": 14,
+            "capa": "brooklin-99.jpg",
+            "elenco": "Andy Samberg, Melissa Fumero, Stephanie Beatriz, Chelsea Peretti, Terry Crews, Andre Braugher e Joe Lo Truglio",
+            "sinopse": "A série Brooklyn Nine-Nine é ambientada na 99ª Delegacia de Polícia de Nova York, no Brooklyn, acompanhando as maluquices do imaturo detetive Jake Peralta (Andy Samberg) e a relação que ele tem com o novo capitão, Ray Holt (Andre Braugher).",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 5,
+            "titulo": "MOdern Family",
+            "anoLancamento": 2009,
+            "idade": 10,
+            "capa": "modern-family.jpg",
+            "elenco": "Julie Bowen, Ty Burrell, Sarah Hyland, Eric Stonestreet, Nolan Gould, Ed O'Neill e Jesse Tyler Ferguson",
+            "sinopse": "O dia a dia de três famílias ligadas entre si. Jay Pritchett (Ed O'Neill) é um homem mais velho que se casa com a latina Glória (Sofía Vergara), muitos anos mais nova que ele. Os dois moram com o filho dela, Manny (Rico Rodriguez), e convivem diariamente com os filhos do primeiro casamento de Jay: Caire (Julie Bowen) e Mitchell (Jesse Tyler Ferguson). Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy (Ty Burrell) e que luta para dar a melhor educação para os filhos Haley (Sarah Hyland), Alex (Ariel Winter) e Luke (Nolan Gould). Já Mitchell vive um relacionamento com Cameron Tucker (Eric Stonestreet), que tem como fruto a filha adotiva Lily (Aubrey Anderson-Emmons).",
+            "disponivel": "Star+"
+        },
+        {
+            "id": 6,
+            "titulo": "Anne With An E",
+            "anoLancamento": 2017,
+            "idade": 12,
+            "capa": "anne-with-an-e.jpg",
+            "elenco": "Amybeth McNulty, Lucas Jade Zumann, Geraldine James, Dalila Bela, Aymeric Jett Montaz, R. H. Thomson e Cory Gruter-Andrew",
+            "sinopse": "Depois de treze anos sofrendo no sistema de assistência social, a orfã Anne é mandada para morar com uma solteirona e seu irmão. Munida de sua imaginação e de seu intelecto, a pequena Anne vai transformar a vida de sua família adotiva e da cidade que lhe abrigou, lutando pela sua aceitação e pelo seu lugar no mundo.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 7,
+            "titulo": "Jane, a Virgem",
+            "anoLancamento": 2014,
+            "idade": 14,
+            "capa": "jane-the-virgin.jpg",
+            "elenco": "Gina Rodriguez, Justin Baldoni, Yael Grobglas, Jaime Camil, Brett Dier, Andrea Navedo e Jenna Ortega",
+            "sinopse": "Quando Jane (Gina Rodriguez) era mais nova, a avó dela a convenceu de duas coisas: telenovelas são a melhor forma de entretenimento, e mulheres devem proteger a virgindade a qualquer custo. Agora, aos 23 anos, a vida de Jane tornou-se tão dramática e complicada quanto as telenovelas que ela sempre amou, após uma série de surpreendentes eventos que fizeram com que ela fizesse, acidentalmente, uma inseminação artificial.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 8,
+            "titulo": "Eu Nunca...",
+            "anoLancamento": 2020,
+            "idade": 14,
+            "capa": "eu-nunca.jpg",
+            "elenco": "Maitreyi Ramakrishnan, Darren Barnet, Jaren Lewison, Richa Moorjani, Poorna Jagannathan, Megan Suri e Lee Rodriguez",
+            "sinopse": "Inspirada em momentos reais da infância da atriz e comediante Mindy Kaling, Eu Nunca... retrata a vida moderna e complicada de Devi (Maitreyi Ramakrishnan), uma adolescente americana, filha de indianos e aluna nada popular na escola. Depois da morte de seu pai, Mohan (Sendhil Ramamurthy), ela sofre um grande trauma e acaba perdendo o movimento das pernas por alguns meses. Tentando mudar sua imagem na escola, Devi faz de tudo para apagar como as pessoas a viam antes, mas nada dá certo. Dev sonha em viver um romance intenso e clichê de filmes adolescentes, mas sua vida parece sempre monótona e desinteressante. Até que um dia, ela acaba conquistando a atenção do seu maior crush da escola, Paxton (Darren Barnet), mas as coisas acabam não indo tão bem quando ela gostaria. Além disso, Devi ainda precisa lidar com as regras severas de sua mãe, Nalini (Poorna Jagaanathan) que tenta controlar cada passo que ela dá.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 9,
+            "titulo": "Full House",
+            "anoLancamento": 1987,
+            "idade": 10,
+            "capa": "full-house.jpg",
+            "elenco": "Bob Saget, John Stamos, Candace Cameron, Jodie Sweetin, Dave Coulier, Mary-Kate Olsen e Andrea Barber",
+            "sinopse": "A história começa em 1987, quando Danny Tanner (Bob Saget) perde sua esposa, Pam, em um acidente de carro. Ele precisa, então, de ajuda para cuidar de suas três filhas, D.J. (Candace Cameron), Stephanie (Jodie Sweetin) e Michelle (Mary-Kate/Ashley Olsen). Para isso, Danny recorre ao seu melhor amigo, Joey Gladstone (Dave Coulier) e a seu cunhado, Jesse Cochran (John Stamos). O que deveriam ser apenas algumas semanas transforma-se em anos de convivência. ",
+            "disponivel": ""
+        },
+        {
+            "id": 10,
+            "titulo": "Unbreakable Kimmy Schmidt",
+            "anoLancamento": 2015,
+            "idade": 12,
+            "capa": "unbreakable-kimmy-schmidt.jpg",
+            "elenco": "Ellie Kemper, Tituss Burgess, Jane Krakowski, Tina Fey, Carol Kane, Sara Chase e Sol Miranda",
+            "sinopse": "Em Unbreakable Kimmy Schmidt, depois de viver durante 15 anos isolada em um culto, acreditando que era uma das únicas sobreviventes de um apocalipse que dizimou a Terra, Kimmy (Ellie Kemper) descobre que estava sendo enganada. Assim que é liberta, ela decide ir morar em Nova York, onde faz novos amigos e descobre um mundo inteiramente novo, que ela vai desbravar com um desafio por vez.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 11,
+            "titulo": "The Big Bang Theory",
+            "anoLancamento": 2007,
+            "idade": 12,
+            "capa": "the-big-bang-theory.jpg",
+            "elenco": "Jim Parsons, Kaley Cuoco, Johnny Galecki, Simon Helberg, Mayim Bialik, Kunal Nayyar e Melissa Rauch",
+            "sinopse": "Na sitcom The Big Bang Theory, Leonard Hofstadter (Johnny Galecki) e Sheldon Cooper (Jim Parsons) são dois físicos brilhantes que trabalham no Instituto de Tecnologia da Califórnia e dividem um apartamento em Pasadena. Leonard vem de uma família cheia de prodígios e tem de lidar com a expectativa opressora de seus parentes. Por outro lado, Sheldon frequentou faculdade desde cedo, é o garoto de ouro do Texas com dois doutorados, mestrados e, mesmo assim, tem pouquíssimo traquejo social para se relacionar com outros seres humanos. Leonard e Sheldon passam a maior parte do tempo com os amigos Howard (Simon Helberg) e Raj (Kunal Nayyar), dois cientistas que também amam cinema, quadrinhos e videogames. A dinâmica do quarteto muda quando Penny (Kaley Cuoco), uma jovem atraente e aspirante a atriz, se muda para o apartamento da frente, encantando Leonard logo de cara. Apesar de ser muito diferente dos rapazes, aos poucos Penny se aproxima dos Geeks. ",
+            "disponivel": "HBO Max"
+        },
+        {
+            "id": 12,
+            "titulo": "Sweet Tooth",
+            "anoLancamento": 2021,
+            "idade": 14,
+            "capa": "sweet-tooth.png",
+            "elenco": "Christian Convery, Nonso Anozie, Stefania Owen, Will Forte, Dania Ramirez, Adeel Akhtar e James Brolin",
+            "sinopse": "Produzida por Robert Downey Jr. e baseada na série homônima de HQs da Vertigo (selo da DC Comics), Sweet Tooth conta a história de Gus (Christian Convery), um menino-cervo que vive em um futuro pós-apocalíptico e faz parte de uma nova raça híbrida de humanos e animais. Isso é resultado de uma série de mutações que aconteceram depois do 'Grande Colapso', quando um misterioso e mortal vírus espalhou o caos pelo mundo. Devido à pandemia, Gus cresceu isolado por uma década, até que decide deixar sua casa na floresta para explorar o que restou lá fora e encontrar sua mãe desaparecida. Mas, contra todas as probabilidades, ele se torna amigo do ex-jogador de futebol Tommy Jepperd (Nonso Anozie), agora viajante solitário e um dos sobreviventes da catástrofe. Juntos, eles embarcam em uma aventura extraordinária por um planeta devastado – e perigoso. Ao descobrir que existem outros como ele, Gus acaba ingressando em uma família de híbridos enquanto busca por respostas acerca dessa nova realidade e o mistério por trás da origem de sua espécie.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 13,
+            "titulo": "Atypical",
+            "anoLancamento": 2017,
+            "idade": 14,
+            "capa": "atypical.jpg",
+            "elenco": "Brigette Lundy-Paine, Keir Gilchrist, Jennifer Jason Leigh, Fivel Stewart, Michael Rapaport, Jenna Boyd e Nik Dodani",
+            "sinopse": "Em Atypical, Sam Gardner (Keir Gilchrist) é um jovem autista de 18 anos que está em busca de sua própria independência – começando por arrumar uma namorada. Nesta jornada repleta de desafios, mas que rende algumas boas risadas, ele e sua família aprendem a lidar com as dificuldades da vida e descobrem que o significado de 'ser um pessoa normal' não é tão óbvio assim.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 14,
+            "titulo": "Dash & Lily",
+            "anoLancamento": 2020,
+            "idade": "L",
+            "capa": "dash-e-lily.jpg",
+            "elenco": "Austin Abrams, Midori Francis, Keana Marie, Nick Jonas, Dante Brown, Troy Iwata e Glenn McCuen",
+            "sinopse": "Inspirada nos livros 'O Caderninho de Desafios de Dash & Lily', a série começa na época do Natal, quando Lily (Midori Francis) decide esconder um caderno cheio de desafios numa livraria, esperando encontrar alguém especial. Quem o encontra é o solitário Dash (Austin Abrams), que topa se envolver no plano, conversando através do papel. Sem se conhecerem pessoalmente, eles descobrem que têm muito mais em comum do que imaginavam.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 15,
+            "titulo": "Emily em Paris",
+            "anoLancamento": 2020,
+            "idade": 14,
+            "capa": "emily-em-paris.jpg",
+            "elenco": "Lily Collins, Lucas Bravo, Camille Razat, Philippine Leroy-Beaulieu, Ashley Park, Lucien Laviscount e Kate Walsh",
+            "sinopse": "Emily in Paris, série original da Netflix, acompanha Emily Cooper (Lily Collins), uma jovem executiva de marketing que se muda de Chicago para Paris, após receber uma proposta de trabalho inesperada. Ela agora tem a chance de realizar todos os seus sonhos, mas se depara com muitos desafios pelo caminho - desde o fato de não saber falar francês até a dificuldade em fazer amigos, passando por aventuras amorosas dignas de um filme. Emily vai precisar, então, achar o equilíbrio entre sua vida profissional e pessoal para aproveitar ao máximo seu tempo na Cidade Luz. As coisas começam a ficar mais fáceis com Emily encontra uma grande amiga em Mindy Chen (Ashley Park), uma babá coreana também tentando ganhar a vida e realizar seus sonhos na capital francesa. Além de aguentar sérios desafios com sua chefe Sylvie (Philippine Leroy-Beaulieu), Emily também enfrenta uma situação complicada quando desenvolve sentimentos por Gabriel (Lucas Bravo), namorado de sua amiga Camille.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 16,
+            "titulo": "Community",
+            "anoLancamento": 2009,
+            "idade": 12,
+            "capa": "community.jpg",
+            "elenco": "Joel McHale, Danny Pudi, Donald Glover, Alison Brie, Dan Harmon, Gillian Jacobs e Chevy Chase",
+            "sinopse": "Na Universidade Comunitária de Greendale, o advogado Jeff Winger (Joel McHale) tenta recuperar o diploma invalidado pela Ordem dos Advogados do Colorado. Durante o período de estudo, ele conhece algumas pessoas bastante diferentes, como o experiente Pierce Hawthorne (Chevy Chase) a atraente Britta Perry (Gillian Jacobs), a jovem Annie Eddison (Alison Brie), a religiosa Shirley (Yvette Nicole Brown) e os geeks Abed (Danny Pudi) e Troy (Donald Glover). Jeff forma com seus colegas de faculdade um grupo de estudos que acaba descobrindo mais sobre si.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 17,
+            "titulo": "Julie and The Phantoms",
+            "anoLancamento": 2020,
+            "idade": "L",
+            "capa": "julie-and-the-phantoms.png",
+            "elenco": "Charlie Gillespie, Madison Reyes, Owen Joyner, Jeremy Shada, Savannah Lee May, Booboo Stewart e Jadah Marie",
+            "sinopse": "Julie (Madison Reyes) é uma adolescente que perdeu sua paixão pela música após o falecimento de sua mãe. Quando os fantasmas de três músicos - que formavam a banda The Phantom e que morreram há 25 anos - aparecem para a jovem, ela sente renascer seu amor por cantar e compor. Cada vez mais envolvida com os garotos, Julie decide ajudá-los a retomar a carreira que nunca tiveram e, assim, cria um novo grupo musical: Julie and the Phantoms.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 18,
+            "titulo": "O Clube das Babás",
+            "anoLancamento": 2020,
+            "idade": 10,
+            "capa": "clube-das-babas.jpg",
+            "elenco": "Momona Tamada, Sophie Grace, Xochitl Gomez, Shay Rudolph, Malia Baker, Alicia Silvertone e Dylan Kingwell",
+            "sinopse": "Cinco melhores amigas adolescentes decidem criar sua própria agência de babás. Além de oferecerem muita diversão a seus clientes, elas precisam lidar com os desafios de administrar um empreendimento durante uma época tão conturbada da vida.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 19,
+            "titulo": "Amor Ocasional",
+            "anoLancamento": 2018,
+            "idade": 14,
+            "capa": "amor-ocasional.jpg",
+            "elenco": "Zita Hanrot, Joséphine Draï, Marc Ruchmann, Tom DIngler, Syrus Shahidi, Sabrina Ouazani e Guillaume Labbé",
+            "sinopse": "Do seu grupo de amigos Elsa (Zita Hanrot) é a única que permanece perpetuamente solteira. Como não conseguem descobrir o motivo pelo qual ela é tão infeliz no amor, a turma se empenha em ajudar a amiga e decide contratar um acompanhante masculino para renovar a fé de Elsa em relacionamentos.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 20,
+            "titulo": "Great News",
+            "anoLancamento": 2017,
+            "idade": 12,
+            "capa": "great-news.jpg",
+            "elenco": "Briga Heelan, Tracey Wigfield, Tina Fey, Adam Campbell, ANdrea Martin, John Michael Higgins e Nicole Richie",
+            "sinopse": "Quando a produtora de televisão em ascendência Katie (Briga Heelan) descobre que sua mãe autoritária foi aceita como estagiária no canal onde trabalha, pensou que estivesse tendo um pesadelo. A jovem vai descobrir, com o tempo, que talvez ter sua maior apoiadora na equipe pode trazer o reconhecimento que ela sempre soube que merecia.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 21,
+            "titulo": "One Day at a Time",
+            "anoLancamento": 2017,
+            "idade": 12,
+            "capa": "one-day-at-a-time.jpg",
+            "elenco": "Justina Machado, Todd Grinnell, Isabella Gomez, Rita Moreno, Mackenzie Phillips, Marcel Ruiz e Gloria Calderon Kellet",
+            "sinopse": "Uma família americana com raízes cubanas, composta por uma mãe recém-divorciada e ex-militar que precisa criar sua filha adolescente e o filho mais jovem, com a ajuda de sua mãe, uma cubana conservadora, e seu amigo Schneider.",
+            "disponivel": "Netflix"
+        },
+        {
+            "id": 22,
+            "titulo": "Glee",
+            "anoLancamento": 2009,
+            "idade": 12,
+            "capa": "glee.jpg",
+            "elenco": "Naya Rivera, Lea Michele, Cory Monteith, Dianna Agron, Mark Salling, Matthew Morrison e Amber Riley",
+            "sinopse": "O professor de espanhol Will Schuester (Matthew Morrison) resolve comandar o coral da escola, Glee Club. Tentando dar nova vida ao grupo, ele procura diferentes alunos, populares e nerds, como Rachel Berry (Lea Michele), Kurt Hummel (Chris Colfer), Finn Hudson (Cory Monteith), Quinn Fabray (Dianna Agron) e Brittany Pierce (Heather Morris). Schuester tenta equilibrar a sua vida pessoal, enquanto ensaia com os seus novos alunos, mas logo começa a enfrentar as armadilhas da treinadora Sue Sylvester (Jane Lynch).",
+            "disponivel": "Disney+"
+        }
+    ]
+}

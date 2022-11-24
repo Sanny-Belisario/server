@@ -1,0 +1,81 @@
+{
+    "filmesSaudeMental": [
+        {
+            "id": 1,
+            "titulo": "Reine sobre Mim",
+            "anoLancamento": 2007,
+            "idade": 12,
+            "capa": "reine-sobre-mim.jpg",
+            "elenco": "Adam Sandler, Don Cheadle, Mike Binder, Liv Tyler, Jada Pinkett Smith, Saffron Burrows e Melinda Dillon",
+            "sinopse": "Charlie Fineman (Adam Sandler) perdeu sua família nos atentados de 11 de setembro de 2001 em Nova York. Ele procura apoio em um antigo amigo da faculdade, o dentista bem sucedido Alan Johnson (Don Cheadle), que também passa por problemas. Mesmo tendo família e emprego, muitas vezes Alan se sente bastante sozinho. Ao se ajudarem mutuamente, a vida de Charlie começa a melhorar bastante e o vínculo entre eles, perdido há algum tempo, volta a se fortalecer.",
+            "disponivel": "HBO Max, Google Play Filmes, YouTube e Apple TV",
+            "tipo": "Depressão"
+        },
+        {
+            "id": 2,
+            "titulo": "Veronika Decide Morrer",
+            "anoLancamento": 2009,
+            "idade": 14,
+            "capa": "veronika-decide-morrer.jpg",
+            "elenco": "Sarah Michelle Gellar, Jonathan Tucker, David Thewlis, Erika Christensen, Melissa Leo, Florencia Lozano e Barbara Sukowa",
+            "sinopse": "Veronika (Sarah Michelle Gellar) é uma jovem de 28 anos que, aparentemente, tem uma vida perfeita: possui um bom apartamento em Nova York, é bonita e tem um ótimo emprego. Porém ela sente um vazio dentro de si mesma, sem conseguir entendê-lo. Sem conseguir entender o significado de sua vida, ela decide se suicidar tomando vários remédios. Duas semanas depois, Veronika desperta do coma e percebe que está em uma clínica para doentes mentais. Lá ela é informada que ssua tentativa de suicídio fez com que seu coração parasse, gerando ferimentos que jamais se recuperarão. Sem saber ao certo quanto tempo ainda lhe resta, ela decide viver de uma forma inteiramente diferente do que vinha fazendo até então.",
+            "disponivel": "Amazon Prime Video",
+            "tipo": "Depressão"
+        },
+        {
+            "id": 3,
+            "titulo": "Se Enlouquecer, Não se Apaixone",
+            "anoLancamento": 2010,
+            "idade": 12,
+            "capa": "se-enlouquecer-nao-se-apaixone.jpg",
+            "elenco": "Zach Galifianakis, Keir Gilchrist, Emma Roberts, Dana DeVestern, Viola Davis, Laren Graham e Ben Folstein",
+            "sinopse": "Craig (Keir Gilchrist), estressado com as demandas de ser um adolescente e assustado com sua tendência suicida, decide buscar ajuda em uma clínica psiquiátrica. Internado por uma semana, ele logo é acolhido por Bobby (Zach Galifianakis), que se torna seu mentor, e se encanta com Noelle (Emma Roberts).",
+            "disponivel": "YouTube, Amazon Prime Video, Google Play Filmes e Apple TV",
+            "tipo": "Depressão"
+        },
+        {
+            "id": 4,
+            "titulo": "As Vantagens de Ser Invisível",
+            "anoLancamento": 2012,
+            "idade": 12,
+            "capa": "as-vantagens-de-ser-invisivel.jpg",
+            "elenco": "Logan Lerman, Emma Watson, Ezra Miller, Johnny Simmons, Paul Rudd, Nina Dobrev e Mae Whitman",
+            "sinopse": "Charlie (Logan Lerman) é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Seu professor de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si... até o dia em que dois amigos, Patrick (Ezra Miller) e Sam (Emma Watson), passam a andar com ele.",
+            "disponivel": "Netflix, Lionsgate+, Amazon Prime Video, Google Play Filmes, HBO Max, Globoplay, YouTube, Apple TV",
+            "tipo": "Depressão na adolescência"
+        },
+        {
+            "id": 5,
+            "titulo": "Divertida Mente",
+            "anoLancamento": 2015,
+            "idade": "L",
+            "capa": "divertida-mente.jpg",
+            "elenco": "Phyllis Smith, Mindy Kalling, Amy Poehler, Kaitlyn Dias, Meg Ryan, Jacob Hopkins e Bill Hader",
+            "sinopse": "Riley é uma garota divertida de 11 anos de idade, que deve enfrentar mudanças importantes em sua vida quando seus pais decidem deixar a sua cidade natal, no estado de Minnesota, para viver em San Francisco. Dentro do cérebro de Riley, convivem várias emoções diferentes, como a Alegria, o Medo, a Raiva, o Nojinho e a Tristeza. A líder deles é Alegria, que se esforça bastante para fazer com que a vida de Riley seja sempre feliz. Entretanto, uma confusão na sala de controle faz com que ela e Tristeza sejam expelidas para fora do local. Agora, elas precisam percorrer as várias ilhas existentes nos pensamentos de Riley para que possam retornar à sala de controle - e, enquanto isto não acontece, a vida da garota muda radicalmente.",
+            "disponivel": "Disney+",
+            "tipo": ""
+        },
+        {
+            "id": 6,
+            "titulo": "O Mínimo para Viver",
+            "anoLancamento": 2017,
+            "idade": 14,
+            "capa": "o-minimo-para-viver.jpg",
+            "elenco": "Lily Collins, Keanu Reeves, Alex Sharp, Liana Liberato, Kathryn Prescott, Clara Bravo e Lili Taylor",
+            "sinopse": "Uma jovem (Lily Collins) está lidando com um problema que afeta muitos jovens no mundo: a anorexia. Sem perspectivas de se livrar da doença e ter uma vida feliz e saudável, a moça passa os dias sem esperança. Porém, quando ela encontra um médico (Keanu Reeves) não convencional que a desafia a enfrentar sua condição e abraçar a vida, tudo pode mudar.",
+            "disponivel": "Netflix",
+            "tipo": "Transtorno alimentar"
+        },
+        {
+            "id": 7,
+            "titulo": "Not Alone (Documentário)",
+            "anoLancamento": 2017,
+            "idade": 16,
+            "capa": "not-alone.jpg",
+            "elenco": "Vários jovens",
+            "sinopse": "Uma adolescente perde uma de suas melhores amigas por suicídio. A dificuldade em compreender a decisão dela e a aproximação do problema que antes não havia imaginado faz com que ela se questione: “Por que ela não lhe disse nada, por que não pediu minha ajuda?”. Assim começa a jornada descrita no documentário Not Alone, Não Sozinho em português. A partir daí, tem início uma saga em busca por informações para entender o ato da amiga e de muitos jovens que cometeram suicídio. Jacqueline Monetta, diretora e idealizadora do documentário, fez buscas na internet, participou de palestras, cursos, buscou entidades de prevenção ao suicídio e, por fim, decidiu ouvir os adolescentes para saber deles próprios o que os motiva a pensar em tirar sua vida e o que os deixa deprimidos.",
+            "disponivel": "Amazon Prime Video e Google Play Filmes",
+            "tipo": ""
+        }
+    ]
+}

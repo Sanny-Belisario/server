@@ -1,0 +1,246 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "A Troca",
+            "paginas": 352,
+            "autor": "Beth O'Leary",
+            "editora": "Intrínseca",
+            "capa": "a-troca.jpg",
+            "idade": 16,
+            "sinopse": "Leena Cotton tem 29 anos e sente que já não é mais a mesma. Eileen Cotton tem 79 e está em busca de um novo amor. Tudo de que neta e avó precisam no momento é pôr em prática uma mudança radical. Então, para colocar suas respectivas vidas de volta nos trilhos, as duas têm uma ideia inusitada: trocar de lugar uma com a outra. Leena sabe que precisa descansar, mas imagina que a parte mais difícil será se adaptar à calmaria da cidadezinha onde a avó mora. Cadastrada em um site de relacionamentos, Eileen por sua vez embarca na aventura com a qual sonha desde a juventude. Dividindo o apartamento com dois amigos da neta, ela logo percebe que na cidade grande suas ideias mirabolantes não são tão complicadas assim. Ao trocar não só de casas, mas de celulares e computadores, de amigos e rotinas, Leena e Eileen vão descobrir muito mais sobre si mesmas do que imaginam. E se tudo der certo, talvez destrocar não seja a melhor solução.",
+            "warnings": "Contém luto, violência doméstica e traição"
+        },
+        {
+            "id": 2,
+            "titulo": "Amor & Gelato",
+            "paginas": 320,
+            "autor": "Jenna Evans Welch",
+            "editora": "Intrínseca",
+            "capa": "amor-e-gelato.jpg",
+            "idade": 16,
+            "sinopse": "Depois da morte da mãe, Lina fica com a missão de realizar um último pedido: ir até a Itália para conhecer o pai. Do dia para a noite, ela se vê na famosa paisagem da Toscana, morando em uma casa localizada no mesmo terreno de um cemitério memorial de soldados americanos da Segunda Guerra Mundial, com um homem que nunca tinha ouvido falar. Apesar das belezas arquitetônicas, da história da cidade e das comidas maravilhosas, o que Lina mais quer é ir embora correndo dali. Mas as coisas começam a mudar quando ela recebe um antigo diário da mãe. Nele, a menina embarca em uma misteriosa história de amor, que pode explicar suas próprias origens. No meio desse turbilhão de emoções, Lina ainda conhece Ren e Thomas, dois meninos lindos que vão mexer ainda mais com seu coração. Uma trajetória que fará Lina descobrir o amor, a si mesma e também aprender a lidar com a perda. Amor & gelato é uma deliciosa viagem pelos mais românticos pontos turísticos italianos, com direito a tudo de mais intenso que o lugar tem a oferecer: desde paixões até corações partidos.",
+            "warnings": "Contém assédio e luto"
+        },
+        {
+            "id": 3,
+            "titulo": "Amor & Sorte",
+            "paginas": 272,
+            "autor": "Jenna Evans Welch",
+            "editora": "Intrínseca",
+            "capa": "amor-e-sorte.png",
+            "idade": 16,
+            "sinopse": "Addie está visitando a Irlanda com a família e tentando aproveitar a paisagem verdejante para não pensar em seu coração partido. Porque, assim que voltar aos Estados Unidos, ela vai ter que enfrentar as consequências do fim terrível de seu romance de verão. Até lá, só quer relaxar enquanto os pais não descobrem o que aconteceu. Mas Ian, seu irmão mais velho, sabe de tudo e não a deixa em paz. Agora os dois, que sempre foram próximos, não param de brigar. Tudo muda quando Addie descobre que Ian também está guardando segredos. Depois de uma série de imprevistos, em vez de ir visitar Lina, sua melhor amiga, na Itália, Addie se junta ao irmão em uma inesperada viagem de carro. O motorista é Rowan, um irlandês simpático (e bonitinho) que dirige, feito um louco, uma lata-velha apelidada de Trevo. Nessas circunstâncias nada favoráveis, Addie conta apenas com um guia de viagem roubado da biblioteca do hotel, Irlanda para corações partidos, e torce para que os conselhos do livro realmente funcionem. Se a Ilha Esmeralda der tanta sorte quanto dizem, talvez ela consiga fazer as pazes com o irmão e, quem sabe, se apaixonar de novo. Em Amor & sorte, vamos ter mais um gostinho do universo de Amor & gelato, dessa vez em uma viagem pelas belezas naturais e pelos pontos turísticos da Irlanda. O aguardado segundo livro de Jenna Evans Welch é uma história encantadora sobre família, amizade e a jornada para se recuperar de uma desilusão amorosa.",
+            "warnings": "Contém exposição de privacidade"
+        },
+        {
+            "id": 4,
+            "titulo": "Vermelho, Branco e Sangue Azul",
+            "paginas": 392,
+            "autor": "Casey McQuinston",
+            "editora": "Seguinte",
+            "capa": "vermelho-branco-sangue-azul.png",
+            "idade": 16,
+            "sinopse": "O que pode acontecer quando o filho da presidenta dos Estados Unidos se apaixona pelo príncipe da Inglaterra? Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão mais novo de Philip, o príncipe mais adorado do mundo, com quem ele é constantemente comparado ― e que ele não suporta. O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois. Para evitar um desastre diplomático, eles passam um fim de semana fingindo ser melhores amigos e não demora para que essa relação evolua para algo que nenhum dos dois poderia imaginar ― e que não tem nenhuma chance de dar certo. Ou tem?",
+            "warnings": "Contém erotismo, violência e homofobia"
+        },
+        {
+            "id": 5,
+            "titulo": "Você Me Ganhou No Olá",
+            "paginas": 392,
+            "autor": "Alexis Daria",
+            "editora": "Harlequin Books",
+            "capa": "voce-me-ganhou-no-ola.jpg",
+            "idade": 16,
+            "sinopse": "Após um término complicado (e muito público), a atriz Jasmine Lin Rodriguez volta a Nova York para assumir o papel principal numa série romântica no maior serviço de streaming do país, determinada a se concentrar apenas em seu trabalho... até que uma mudança no elenco traz o rei das novelas latinas, Ashton Suarez ― ¡El León Dorado!, ¡El Hombre Seductor! ―, como seu par romântico. Depois que seu último personagem foi morto subitamente, Ashton anda preocupado com a possibilidade de que sua carreira também esteja nas últimas. Então, quando a chance de protagonizar um seriado norte-americano aparece, ele sabe que não pode desperdiçá-la, a fim de atrair o olhar de Hollywood. E tudo vai depender de sua química em frente às câmeras com Jasmine. Mais fácil falar do que fazer, aparentemente, porque Ashton não consegue parar de passar vergonha na frente de sua linda colega de trabalho. Com suas carreiras em jogo, Jasmine e Ashton sabem que devem dar tudo de si, nem que para isso precisem ensaiar sozinhos e inventar maneiras de ficar confortáveis um com o outro. O problema é quando a química não acontece apenas na frente das câmeras, e o foco da mídia em Jasmine passa a ameaçar o segredo mais importante de Ashton.",
+            "warnings": "Contém erotismo, stalker, ansiedade, ansiedade social e ataques de pânico"
+        },
+        {
+            "id": 6,
+            "titulo": "Sol em Júpiter",
+            "paginas": 256,
+            "autor": "Lola Salgado",
+            "editora": "Harlequin Books",
+            "capa": "sol-em-jupiter.jpg",
+            "idade": 16,
+            "sinopse": "Sol Leão tem uma vida invejável.   Bonita e autoconfiante, ela mora em um apartamento de frente para a praia e seu canal no YouTube, Delírios de Juba, acabou de atingir a marca de 6 milhões de inscritos. Para completar, acaba de ser pedida em casamento pelo homem dos seus sonhos. Mas será que seus dias são tão perfeitos quanto parecem ser nos vídeos e nas fotos do Instagram?Em um momento catastrófico, Sol conhece Júpiter, um rapaz de sorriso fácil e olhos incrivelmente azuis. Com o coração balançado, ela começa a questionar a vida que tem levado até agora e a imagem que se sente obrigada a manter para seus fãs. Quando, durante uma transmissão ao vivo para milhares de pessoas, Sol faz uma terrível descoberta, ela vê a muralha que tinha construído ao seu redor desmoronar e é obrigada a encarar medos e inseguranças do passado. Ainda bem que Júpiter está ali, com suas covinhas irresistíveis, para ajudá--la a encontrar forças dentro de si e dar a volta por cima, mostrando que a vida pode, sim, ser leve, mesmo quando o universo parece querer provar o contrário.",
+            "warnings": "Contém bullying, relação complicada com os pais, pressão da mídia e erotismo"
+        },
+        {
+            "id": 7,
+            "titulo": "Clube do Livro dos Homens",
+            "paginas": 320,
+            "autor": "Lyssa Kay Adams",
+            "editora": "Arqueiro",
+            "capa": "clube-do-livro-dos-homens.jpg",
+            "idade": 16,
+            "sinopse": "A primeira regra do clube do livro é: não fale sobre o clube do livro. Gavin Scott é um astro do beisebol, devotado ao esporte. No auge de sua carreira, ele descobre um segredo humilhante: a esposa, Thea, sempre fingiu ter prazer na cama. Magoado, Gavin para de falar com ela e acaba piorando o relacionamento, que já vinha se deteriorando. Quando Thea pede o divórcio, ele percebe que o orgulho e o medo podem fazê-lo perder tudo. Bem-vindos ao Clube do Livro dos Homens. Desesperado, Gavin encontra ajuda onde menos espera: um clube secreto de romances, composto por alguns dos seus colegas de time. Para salvar seu casamento, eles recorrem à leitura de uma sensual trama de época, Cortejando a condessa. Só que vai ser preciso muito mais do que palavras floreadas e gestos grandiosos para que Gavin recupere a confiança da esposa.",
+            "warnings": "Contém machismo e erotismo"
+        },
+        {
+            "id": 8,
+            "titulo": "Mil Beijos de Garoto",
+            "paginas": 400,
+            "autor": "Tillie Cole",
+            "editora": "Outro Planeta",
+            "capa": "mil-beijos-de-garoto.jpg",
+            "idade": 16,
+            "sinopse": "Um beijo dura um instante. Mas mil beijos podem durar uma vida inteira. Um garoto. Uma garota. Um vínculo que é definido num momento e se prolonga por uma década. Um vínculo que nem o tempo nem a distância podem romper. Um vínculo que vai durar para sempre. Ao menos era o que eles imaginavam. Quando, aos dezessete anos, Rune Kristiansen retorna da Noruega para o lugar onde passou a infância, a cidade americana de Blossom Grove, na Geórgia , ele só tem uma coisa em mente: reencontrar Poppy Litchfield, a garota que era sua cara-metade e que tinha prometido esperar fielmente por seu retorno. E ele quer descobrir por que, nos dois anos em que esteve fora, ela o deletou de sua vida sem dar nenhuma explicação.",
+            "warnings": "Dependência emocional"
+        },
+        {
+            "id": 9,
+            "titulo": "A Seleção",
+            "paginas": 363,
+            "autor": "Kiera Cass",
+            "editora": "Seguinte",
+            "capa": "a-selecao.jpg",
+            "idade": 14,
+            "sinopse": "Para trinta e cinco garotas, a Seleção é a chance de uma vida. É a oportunidade de ser alçada a um mundo de vestidos deslumbrantes e joias valiosas. De morar em um palácio, conquistar o coração do belo príncipe Maxon e um dia ser a rainha. America Singer, no entanto, estar entre as Selecionadas é um pesadelo. Significa deixar para trás o rapaz que ama. Abandonar sua família e seu lar para entrar em uma disputa ferrenha por uma coroa que ela não quer. E viver em um palácio sob a ameaça constante de ataques rebeldes. Então America conhece pessoalmente o príncipe - e percebe que a vida com que sempre sonhou talvez não seja nada comparada ao futuro que nunca tinha ousado imaginar.",
+            "warnings": "Contém agressão e crise de ansiedade"
+        },
+        {
+            "id": 10,
+            "titulo": "Quinze Dias",
+            "paginas": 208,
+            "autor": "Vitor Martins",
+            "editora": "Alt",
+            "capa": "quinze-dias.jpg",
+            "idade": 14,
+            "sinopse": "Felipe está esperando por esse momento desde que as aulas começaram: o início das férias de julho. Finalmente ele vai poder passar alguns dias longe da escola e dos colegas que o maltratam. Os planos envolvem se afundar nos episódios atrasados de suas séries favoritas, colocar a leitura em dia e aprender com tutoriais no YouTube coisas novas que ele nunca vai colocar em prática. Mas as coisas fogem um pouco do controle quando a mãe de Felipe informa que concordou em hospedar Caio, o vizinho do 57, por longos quinze dias, enquanto os pais dele estão viajando. Felipe entra em desespero porque a) Caio foi sua primeira paixãozinha na infância (e existe uma grande possibilidade dessa paixão não ter passado até hoje) e b) Felipe coleciona uma lista infinita de inseguranças e não tem a menor ideia de como interagir com o vizinho. Os dias que prometiam paz, tranquilidade e maratonas épicas de Netflix acabam trazendo um turbilhão de sentimentos, que obrigarão Felipe a mergulhar em todas as questões mal resolvidas que ele tem consigo mesmo.",
+            "warnings": "Contém homofobia, gordofobia e bullying"
+        },
+        {
+            "id": 11,
+            "titulo": "Conectadas",
+            "paginas": 320,
+            "autor": "Clara Alves",
+            "editora": "Seguinte",
+            "capa": "conectadas.jpg",
+            "idade": 14,
+            "sinopse": "Raíssa e Ayla se conheceram jogando Feéricos, um dos games mais populares do momento, e não se desgrudaram mais ― pelo menos virtualmente. Ayla sente que, com Raíssa, finalmente pode ser ela mesma. Raíssa, por sua vez, encontra em Ayla uma conexão que nunca teve com ninguém. Só tem um “pequeno” problema: Raíssa joga com um avatar masculino, então Ayla não sabe que está conversando com outra menina. Quanto mais as duas se envolvem, mais culpa Raíssa sente. Só que ela não está pronta para se assumir ― muito menos para perder a garota que ama. Então só vai levando a mentira adiante… Afinal, qual é a chance de as duas se conhecerem pessoalmente, morando em cidades diferentes? Bem alta, já que foi anunciada a primeira feira de Feéricos em São Paulo, o evento perfeito para esse encontro acontecer. Em um fim de semana repleto de cosplays, confidências e corações partidos, será que esse romance on-line conseguirá sobreviver à vida real?",
+            "warnings": "Contém lesbofobia, relação familiar complicada e saída do armário"
+        },
+        {
+            "id": 12,
+            "titulo": "As Vantagens de Ser Invisível",
+            "paginas": 288,
+            "autor": "Stephen Chbosky",
+            "editora": "Rocco",
+            "capa": "as-vantagens-de-ser-invisivel.jpg",
+            "idade": 14,
+            "sinopse": "Manter-se à margem oferece uma única e passiva perspectiva. Mas, de uma hora para outra, sempre chega o momento de encarar a vida do centro dos holofotes. Mais íntimas do que um diário, as cartas de Charlie são estranhas e únicas, hilárias e devastadoras. Não se sabe onde ele mora. Não se sabe para quem ele escreve. Tudo o que se conhece é o mundo que ele compartilha com o leitor. Estar encurralado entre o desejo de viver sua vida e fugir dela o coloca num novo caminho através de um território inexplorado. Um mundo de primeiros encontros amorosos, dramas familiares e novos amigos. Um mundo de sexo, drogas e rock’n’roll, quando o que todo mundo quer é aquela música certa que provoca o impulso perfeito para se sentir infinito. A luta entre apatia e entusiasmo marca o fim da adolescência de Charlie nesta história divertida e ao mesmo tempo instigante",
+            "warnings": "Contém depressão e suicídio"
+        },
+        {
+            "id": 13,
+            "titulo": "Quem é você Alasca?",
+            "paginas": 336,
+            "autor": "John Green",
+            "editora": "Intrínseca",
+            "capa": "quem-e-voce-alasca.jpg",
+            "idade": 14,
+            "sinopse": "Miles Halter estava em busca de um Grande Talvez. Alasca Young queria descobrir como sair do labirinto. Suas vidas colidiram na Escola Culver Creek, e nada nunca mais foi o mesmo. Miles Halter levava uma vidinha sem graça e sem muitas emoções (ou amizades) na Flórida. Ele tinha um gosto peculiar: memorizar as últimas palavras de grandes personalidades da história. Uma dessas personalidades, François Rabelais, um poeta do século XV, disse no leito de morte que ia “em busca de um Grande Talvez”. Para não ter que esperar a morte para encontrar seu Grande Talvez, Miles decide fazer as malas e partir. Ele vai para a Escola Culver Creek, um internato no ensolarado Alabama. Lá, ele conhece Alasca Young. Ela tem em seu livro preferido, O general em seu labirinto , de Gabriel García Márquez, a pergunta para a qual busca incessantemente uma resposta: “Como vou sair desse labirinto?” Inteligente, engraçada, louca e incrivelmente sexy, Alasca vai arrastar Miles para seu labirinto e catapultá-lo sem misericórdia na direção do Grande Talvez. Miles se apaixona por Alasca, mesmo sem entendê-la, mesmo tentando sem sucesso decifrar o enigma de seus olhos verde-esmeralda.",
+            "warnings": "Contém depressão e álcool"
+        },
+        {
+            "id": 14,
+            "titulo": "Teto para Dois",
+            "paginas": 400,
+            "autor": "Beth O'Leary",
+            "editora": "Intrínseca",
+            "capa": "teto-para-dois.png",
+            "idade": 14,
+            "sinopse": "Três meses após o término do seu relacionamento, Tiffy finalmente sai do apartamento do ex-namorado. Agora ela precisa para ontem de um lugar barato para morar. Contrariando os amigos, ela topa um acordo bastante inusitado. Leon está enrolado com questões financeiras e tem uma ideia pouco convencional para arranjar dinheiro rápido: sublocar seu apartamento, onde fica apenas no período da manhã e da tarde nos dias úteis, já que passa os finais de semana com a namorada e trabalha como enfermeiro no turno da noite. Só que tem um detalhe importante: o lugar tem apenas uma cama. Sem nunca terem se encontrado pessoalmente, Leon e Tiffy fecham um contrato de seis meses e passam a resolver as trivialidades do dia a dia por Post-its espalhados pela casa. Mas será que essa solução aparentemente perfeita resiste a um ex-namorado obsessivo, uma namorada ciumenta, um irmão encrencado, dois empregos exigentes e alguns amigos superprotetores?",
+            "warnings": "Contém relacionamentos abusivos, abuso psicológico e físico"
+        },
+        {
+            "id": 15,
+            "titulo": "O Jardim Secreto",
+            "paginas": 288,
+            "autor": "Frances Hodgson Burnett",
+            "editora": "Darkside",
+            "capa": "jardim-secreto.png",
+            "idade": 12,
+            "sinopse": "As histórias mais mágicas são capazes de atravessar as barreiras do tempo e encantar leitores de diferentes gerações. Em 1911, Frances Hodgson Burnett presenteou o mundo com O Jardim Secreto, uma história doce e delicada sobre o poder transformador da magia, da natureza e da amizade. Mais de cem anos depois, a DarkSide® Books encontrou a chave para o jardim e agora convida os leitores brasileiros a mergulharem neste emocionante clássico da literatura infantojuvenil. O Jardim Secreto conta a história de Mary Lennox, uma menina solitária que perde os pais em um surto de cólera na Índia e, como consequência, é enviada para uma mansão em Yorkshire para morar com seu tio misterioso. Cheia de incertezas diante da nova realidade cinzenta da Inglaterra, ela encontra consolo na natureza ao seu redor. E, quando descobre a existência de um jardim secreto nos terrenos da mansão e encontra a chave perdida, um mundo mágico se descortina diante de seus olhos. A menina e a natureza desabrocham juntas, em um percurso repleto de companheiros improváveis e amigos para vida inteira. Em uma de suas obras mais aclamadas, Frances Hodgson Burnett toca o coração dos leitores de todas as idades ao contar a história de Mary, uma menina rabugenta e desagradável; Dickon, um garoto doce e amigo dos animais; e Colin, um menino mimado e apavorado com a vida. E ela o faz com tanta maestria que o livro já ganhou inúmeras adaptações para o cinema e a tv, entre elas a versão da bbc, que estreou em janeiro de 1975, e o filme de 1993, dirigido por Agnieszka Holland e com Maggie Smith e Kate Maberly no elenco. Lírico e inesquecível, O Jardim Secreto é um livro que fascina crianças e adultos, inspirando a todos com sua receita secreta para vencer obstáculos, superar desafios e encontrar dentro de nossas essências um lugar onde a esperança sempre floresce. Fábulas Dark | Só os insetos sabem o caminho de casa A DarkSide® Books vai cair na toca do coelho, atravessar o túnel de árvores e redescobrir jardins secretos que ainda estão florescendo para uma nova geração de leitores. A marca Fábulas Dark vai trazer histórias surpreendentes que atravessaram gerações e se expandiram do mundo das palavras para todos os formatos e manifestações artísticas. Edições únicas e de puro encantamento. Viva a experiência dark no nosso mundo de fábulas.",
+            "warnings": "Contém problemas familiares e psicológicos, violência sexual e sequestro"
+        },
+        {
+            "id": 16,
+            "titulo": "Eleanor & Park",
+            "paginas": 360,
+            "autor": "Rainbow Rowell",
+            "editora": "Seguinte",
+            "capa": "eleanor-e-park.jpg",
+            "idade": 12,
+            "sinopse": "Eleanor é nova na cidade. Com roupas inusitadas, cachos ruivos indomáveis e uma família problemática, ela sente que nunca vai conseguir se encaixar. Park senta sozinho no ônibus da escola. Sempre de camiseta preta, fones de ouvido e a cabeça enfiada num livro, acha que consegue passar despercebido. Mas não para Eleanor. Aos poucos, entre fitas cassetes gravadas, pilhas de histórias em quadrinhos e conversas até tarde da noite, Eleanor e Park se apaixonam. Narrada durante o ano letivo de 1986, essa é a história de dois jovens de dezesseis anos que, mesmo sabendo que o primeiro amor quase nunca é para sempre, têm coragem e esperança suficientes para tentar.",
+            "warnings": "Contém bullying, assédio e ataque de pânico"
+        },
+        {
+            "id": 17,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "paginas": 208,
+            "autor": "J.K. Rowling",
+            "editora": "Rocco",
+            "capa": "harry-potter-e-a-pedra-filosofal.jpg",
+            "idade": 10,
+            "sinopse": "Harry Potter é um garoto cujos pais, feiticeiros, foram assassinados por um poderosíssimo bruxo quando ele ainda era um bebê. Ele foi levado, então, para a casa dos tios que nada tinham a ver com o sobrenatural. Pelo contrário. Até os 10 anos, Harry foi uma espécie de gata borralheira: maltratado pelos tios, herdava roupas velhas do primo gorducho, tinha óculos remendados e era tratado como um estorvo. No dia de seu aniversário de 11 anos, entretanto, ele parece deslizar por um buraco sem fundo, como o de Alice no país das maravilhas, que o conduz a um mundo mágico. Descobre sua verdadeira história e seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o homem que assassinou seus pais. O menino de olhos verde, magricela e desengonçado, tão habituado à rejeição, descobre, também, que é um herói no universo dos magos. Potter fica sabendo que é a única pessoa a ter sobrevivido a um ataque do tal bruxo do mal e essa é a causa da marca em forma de raio que ele carrega na testa. Ele não é um garoto qualquer, ele sequer é um feiticeiro qualquer ele é Harry Potter, símbolo de poder, resistência e um líder natural entre os sobrenaturais. A fábula, recheada de fantasmas, paredes que falam, caldeirões, sapos, unicórnios, dragões e gigantes, não é, entretanto, apenas um passatempo.",
+            "warnings": ""
+        },
+        {
+            "id": 18,
+            "titulo": "Extraordinário",
+            "paginas": 320,
+            "autor": "R.J. Palacio",
+            "editora": "Intrínseca",
+            "capa": "extraordinario.jpg",
+            "idade": 10,
+            "sinopse": "August Pullman, o Auggie, nasceu com uma síndrome cuja sequela é uma severa deformidade facial, que lhe impôs diversas cirurgias e complicações médicas. Por isso ele nunca frequentou uma escola de verdade... Até agora. Todo mundo sabe que é difícil ser um aluno novo, mais ainda quando se tem um rosto tão diferente. Prestes a começar o quinto ano em um colégio particular em Nova York, Auggie tem uma missão nada fácil pela frente: convencer os colegas de que, apenas da aparência incomum, ele é um menino igual a todos os outros. R.J.Palacio criou uma história edificante, repleta de amor e esperança, em que um grupo de pessoas luta para espalhar compaixão, aceitação e gentileza. Narrado da perspectiva de Auggie e também de seus familiares e amigos, com momentos comoventes e outros descontraídos, Extraordinário consegue captar o impacto que um menino pode causar na vida e no comportamento de todos, família, amigos e comunidade – um impacto forte, comovente e , sem dúvida nenhuma, extraordinariamente positivo, que vai tocar todo tipo de leitor. Para espalhar a mensagem de Extraordinário, Palacio iniciou uma campanha antibullying, da qual milhares de crianças já participaram.",
+            "warnings": "Contém bullying e baixa autoestima"
+        },
+        {
+            "id": 19,
+            "titulo": "O Pequeno Príncipe",
+            "paginas": 96,
+            "autor": "Antonie de Saint-Exupéry",
+            "editora": "Via Leitura",
+            "capa": "o-pequeno-principe.jpg",
+            "idade": "L",
+            "sinopse": "As sábias, encantadoras e inesquecíveis histórias contadas pelo pequeno príncipe falam de seu próprio planeta, com seus três vulcões e uma flor presunçosa. Uma história maravilhosa e profunda, para todas as idades, e ilustrada pelo próprio autor.",
+            "warnings": ""
+        },
+        {
+            "id": 20,
+            "titulo": "Matilda",
+            "paginas": 260,
+            "autor": "Roald Dahl",
+            "editora": "WMF Martins Fontes",
+            "capa": "matilda.jpg",
+            "idade": "L",
+            "sinopse": "Todos os dias Matilda passava horas na Biblioteca, lendo um livro atrás do outro. Mas quanto mais ela lia e aprendia, mais aumentavam seus problemas. Os pais passavam o tempo todo vendo televisão, e achavam muito estranho a menina gostar tanto de ler. A diretora da escola achava Matilda uma fingida, pois não acreditava que uma criança tão nova pudesse saber tantas coisas.",
+            "warnings": ""
+        },
+        {
+            "id": 21,
+            "titulo": "Pollyanna",
+            "paginas": 184,
+            "autor": "Eleanor H Porter",
+            "editora": "Pé da Letra",
+            "capa": "polyanna.jpg",
+            "idade": "L",
+            "sinopse": "A pequena cidade e beldingsville, no interior dos estados unidos, nunca mais seria a mesma depois da chegada de pollyanna, uma garotinha órfã de 11 anos que ficou aos cuidados da tia rica, a irritadiça e intransigente senhora polly harrington. Com sua extraordinária visão do mundo, a encantadora menina conquista os habitantes da cidadezinha e ensina a todos o seu incrível 'jogo do contente', um jogo de transformar vidas e modificar destinos.",
+            "warnings": ""
+        },
+        {
+            "id": 22,
+            "titulo": "O Mundo de Sofia",
+            "paginas": 568,
+            "autor": "Jostein Gaarder",
+            "editora": "Seguinte",
+            "capa": "o-mundo-de-sofia.png",
+            "idade": "L",
+            "sinopse": "Às vésperas de seu aniversário de quinze anos, Sofia Amundsen começa a receber bilhetes e cartões-postais bastante estranhos. Os bilhetes são anônimos e perguntam a Sofia quem é ela e de onde vem o mundo. Os postais são enviados do Líbano, por um major desconhecido, para uma certa Hilde Møller Knag, garota a quem Sofia também não conhece. O mistério dos bilhetes e dos postais é o ponto de partida deste romance fascinante, que vem conquistando milhões de leitores em todos os países e já vendeu mais de 1 milhão de exemplares só no Brasil. De capítulo em capítulo, de “lição” em “lição”, o leitor é convidado a percorrer toda a história da filosofia ocidental, ao mesmo tempo que se vê envolvido por um thriller que toma um rumo surpreendente.",
+            "warnings": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "tecnicasAjuda": [
+        {
+            "id": 1,
+            "titulo": "Como ajudar alguém em crise de ansiedade",
+            "canal": "Saúde da Mente",
+            "link": "https://www.youtube.com/embed/gqNKuf2Bs8E",
+            "warning": ""
+        },
+        {
+            "id": 2,
+            "titulo": "Como ajudar alguém com ansiedade. Entenda com a Psiquiatra Maria Fernanda Caliani",
+            "canal": "Neurologia e Psiquiatria",
+            "link": "https://www.youtube.com/embed/WryAfIPSb-0",
+            "warning": ""
+        },
+        {
+            "id": 3,
+            "titulo": "Dicas Bem-Estar #14: Como ajudar alguém numa crise de ansiedade?",
+            "canal": "TV Ufes",
+            "link": "https://www.youtube.com/embed/Hc4_NoIAU_k",
+            "warning": ""
+        },
+        {
+            "id": 4,
+            "titulo": "Como ajudar uma pessoa com ansiedade",
+            "canal": "Drauzio Varella",
+            "link": "https://www.youtube.com/embed/A_cO_ps2IVw",
+            "warning": ""
+        },
+        {
+            "id": 5,
+            "titulo": "Como ajudar alguém em crise de ansiedade (PÂNICO) em 4 passos. | Psicólogo Victor.",
+            "canal": "Victor Degasperi",
+            "link": "https://www.youtube.com/embed/1ifDFvZeHPk",
+            "warning": ""
+        }
+    ]
+}

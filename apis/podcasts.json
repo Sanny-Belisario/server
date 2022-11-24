@@ -1,0 +1,49 @@
+{
+    "podcasts": [
+        {
+            "id": 1,
+            "titulo": "Para dar nome às coisas, de Natália Sousa",
+            "descricao": "Meu nome é Natália Sousa, sou jornalista e escritora, mas a informação mais importante do meu currículo pessoal é que eu adoro chocolate e uma vida bem vividinha - dessas cheias de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis. Criei esse espaço para fazer na web uma mesa de bar, daquelas que a gente senta e sente que – por mais que pareça – nunca estamos só."
+        },
+        {
+            "id": 2,
+            "titulo": "Acenda sua luz, de Carol Rache",
+            "descricao": "Pílulas de Inteligência Emocional para te ajudar a acender sua luz. @carolrache"
+        },
+        {
+            "id": 3,
+            "titulo": "Manhãs Poderosas, de Neder Izaac",
+            "descricao": "Podcast baseado no livro Manhãs Poderosas de Neder Izaac aprofundando e discutindo como você pode cuidar do essencial e buscar ser melhor todas as manhãs. São 30 lições iniciais e depois conteúdos adicionais e contínuos para que você entenda melhor o poder dos seus pensamentos e da sua mente. A manhã é o tempo mais nobre do dia para se conectar com o essencial, para equilibrar suas emoções, definir as metas do dia, ter muito mais foco e produtividade. Bônus: meditação guiada oficial do livro Manhãs Poderosas."
+        },
+        {
+            "id": 4,
+            "titulo": "Tudo é cura, de Aline Sena",
+            "descricao": "Podcast de autoconhecimento que te ajuda a criar uma vida leve, criativa e amorosa com você e com o mundo. http://tudoecura.com.br"
+        },
+        {
+            "id": 5,
+            "titulo": "Autoconsciente,  B9 Regina Giannetti",
+            "descricao": "Este é um podcast que entende você, para você entender melhor sua mente e emoções. Para ter uma relação mais leve consigo mesmo, baixando o tom da autocobrança e da autocrítica que ecoam na cabeça. Para que possa encontrar, dentro de você, a paz que está tão difícil de encontrar no mundo. Autoconsciente é um bom lugar para se estar nestes nossos tempos conturbados. Seus episódios retratam situações que todos nós vivemos, com uma abordagem esclarecedora, acolhedora, que reenergiza. Mais do que um conteúdo, você encontra aqui uma experiência pacificadora. Por Regina Giannetti @regina.giannetti e @vocemaiscentrado"
+        },
+        {
+            "id": 6,
+            "titulo": "Jout Jout de Saia, GNT",
+            "descricao": "Jout Jout quinzenalmente quebra barreiras e preconceitos e te faz enxergar as coisas de uma nova forma."
+        },
+        {
+            "id": 7,
+            "titulo": "Psicologia na Prática, Alana Anijar",
+            "descricao": "Eu sou a Alana Anijar, psicóloga, especialista em Terapia Cognitivo Comportamental é esse é meu podcast Psicologia na Prática. Aqui, você vai encontrar semanalmente conteúdos práticos, simples e acessíveis para que possa aplicar os conceitos da Psicologia no seu dia-a-dia. Saúde mental, autoestima, autoconhecimento, inteligência emocional e muito mais! @alanaanijar. Produção: @clav_music"
+        },
+        {
+            "id": 8,
+            "titulo": "Para todas as pessoas intensas. Iandê Albuquerque",
+            "descricao": "Este é o podcast ''para todas as pessoas intensas''. E por aqui você vai ouvir textos sobre amor próprio, autocuidado, resiliência, coragem, entre outros assuntos bem acolhedores."
+        },
+        {
+            "id": 9,
+            "titulo": "Meu Inconsciente Coletivo, Folha de São Paulo",
+            "descricao": "O que os melhores psicanalistas do país têm a dizer sobre remédios, maternidade, depressão, síndrome do impostor e fetiches estranhos? No podcast 'Meu Inconsciente Coletivo', a escritora e colunista da Folha, Tati Bernardi, abre ao público alguns temas recorrentes em suas sessões de terapia. Nos episódios, as neuroses da paciente são as mesmas, mas o analista muda a cada sessão. O 'Meu Inconsciente Coletivo' está nos principais agregadores de podcast e tem novos episódios todas as sextas."
+        }
+    ]
+}
